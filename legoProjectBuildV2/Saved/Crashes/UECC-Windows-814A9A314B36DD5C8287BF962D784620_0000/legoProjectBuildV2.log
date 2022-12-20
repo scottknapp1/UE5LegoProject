@@ -1,0 +1,1115 @@
+﻿Log file open, 10/12/22 18:25:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3560)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: legoProjectBuildV2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/legoProjectBuildV2.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3800XT 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2810401840343d9dffa6918c67a3149e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.240132
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-814A9A314B36DD5C8287BF962D784620
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 7 3800XT 8-Core Processor            , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.12-17.25.25:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.12-17.25.25:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.12-17.25.25:681][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.12-17.25.25:682][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.12-17.25.25:683][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.12-17.25.25:684][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.12-17.25.25:684][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.12-17.25.25:684][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.12-17.25.25:696][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.12-17.25.25:696][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.12-17.25.26:006][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.12-17.25.26:006][  0]LogD3D12RHI: Adapter has 5991MB of dedicated video memory, 0MB of dedicated system memory, and 8146MB of shared system memory, 1 output[s]
+[2022.10.12-17.25.26:122][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.12-17.25.26:122][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8146MB of shared system memory, 0 output[s]
+[2022.10.12-17.25.26:122][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.12-17.25.26:123][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.12-17.25.26:123][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.12-17.25.26:123][  0]LogHAL: Display: Platform has ~ 16 GB [17084551168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.12-17.25.26:123][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.12-17.25.26:123][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.12-17.25.26:123][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.12-17.25.26:123][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.12-17.25.26:123][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.12-17.25.26:123][  0]LogInit: Computer: DESKTOP-793B17Q
+[2022.10.12-17.25.26:123][  0]LogInit: User: scott
+[2022.10.12-17.25.26:123][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.10.12-17.25.26:123][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.12-17.25.26:123][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.12-17.25.26:123][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.12-17.25.26:123][  0]LogMemory: Process Physical Memory: 281.18 MB used, 290.59 MB peak
+[2022.10.12-17.25.26:123][  0]LogMemory: Process Virtual Memory: 245.52 MB used, 245.52 MB peak
+[2022.10.12-17.25.26:123][  0]LogMemory: Physical Memory: 7593.02 MB used,  8700.07 MB free, 16293.10 MB total
+[2022.10.12-17.25.26:123][  0]LogMemory: Virtual Memory: 13049.05 MB used,  12846.50 MB free, 25895.55 MB total
+[2022.10.12-17.25.26:123][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.12-17.25.26:128][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.12-17.25.26:139][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.12-17.25.26:140][  0]LogInit: Using OS detected language (en-US).
+[2022.10.12-17.25.26:140][  0]LogInit: Using OS detected locale (en-GB).
+[2022.10.12-17.25.26:146][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.12-17.25.26:288][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.12-17.25.26:297][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.12-17.25.26:297][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.12-17.25.26:297][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.10.12-17.25.26:297][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.12-17.25.26:309][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.12-17.25.26:309][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.12-17.25.26:435][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.12-17.25.26:438][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.12-17.25.26:438][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.12-17.25.26:530][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.12-17.25.26:598][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.12-17.25.26:609][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.12-17.25.26:633][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.12-17.25.26:652][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.12-17.25.26:652][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.12-17.25.26:682][  0]LogD3D12RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.12-17.25.26:682][  0]LogWindows: Attached monitors:
+[2022.10.12-17.25.26:682][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.12-17.25.26:682][  0]LogWindows: Found 1 attached monitors.
+[2022.10.12-17.25.26:682][  0]LogWindows: EnumDisplayDevices:
+[2022.10.12-17.25.26:683][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.12-17.25.26:683][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.12-17.25.26:683][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.12-17.25.26:683][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.12-17.25.26:683][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.12-17.25.26:683][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.10.12-17.25.26:683][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.12-17.25.26:683][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.10.12-17.25.26:683][  0]LogRHI: Texture pool is 3290 MB (70% of 4700 MB)
+[2022.10.12-17.25.26:684][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.12-17.25.26:684][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.12-17.25.26:693][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.12-17.25.26:698][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/legoProjectBuildV2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/legoProjectBuildV2.uproject"  -platform=all'
+[2022.10.12-17.25.26:698][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/legoProjectBuildV2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/legoProjectBuildV2.uproject"  -platform=all" ]
+[2022.10.12-17.25.26:718][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.12-17.25.26:725][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.12-17.25.26:725][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.12-17.25.26:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.12-17.25.26:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.12-17.25.26:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.12-17.25.26:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.12-17.25.26:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.12-17.25.26:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.12-17.25.26:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.12-17.25.26:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.12-17.25.26:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.12-17.25.26:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.12-17.25.26:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.12-17.25.26:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.12-17.25.26:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.12-17.25.26:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.12-17.25.26:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.12-17.25.26:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.12-17.25.26:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.12-17.25.26:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.12-17.25.26:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.12-17.25.26:765][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.12-17.25.26:771][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.12-17.25.26:773][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.12-17.25.26:773][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.12-17.25.26:773][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.12-17.25.26:773][  0]LogTargetPlatformManager:   PCM
+[2022.10.12-17.25.26:775][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.12-17.25.26:775][  0]LogTargetPlatformManager:   BINKA
+[2022.10.12-17.25.26:775][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.12-17.25.26:775][  0]LogTargetPlatformManager:   OGG
+[2022.10.12-17.25.26:775][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.12-17.25.26:775][  0]LogTargetPlatformManager:   OPUS
+[2022.10.12-17.25.26:808][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.12-17.25.26:813][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.12-17.25.26:815][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.12-17.25.26:816][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.12-17.25.26:816][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.12-17.25.26:816][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.12-17.25.26:816][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.12-17.25.26:816][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.12-17.25.26:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.12-17.25.26:819][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.12-17.25.26:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.12-17.25.26:819][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.12-17.25.26:838][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.12-17.25.26:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.12-17.25.26:838][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.12-17.25.26:844][  0]LogDerivedDataCache: Speed tests for C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.12-17.25.26:844][  0]LogDerivedDataCache: Display: Performance to C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1106.90MBs, RandomWriteSpeed=232.40MBs. Assigned SpeedClass 'Local'
+[2022.10.12-17.25.26:844][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.12-17.25.26:844][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.12-17.25.26:844][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.12-17.25.26:850][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.12-17.25.26:850][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.12-17.25.26:850][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Intermediate/Shaders/WorkingDirectory/16380/).
+[2022.10.12-17.25.26:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/693B537B4E10DB8B481101BACF4BB7E3/'.
+[2022.10.12-17.25.26:851][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.12-17.25.26:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.10.12-17.25.28:045][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.12-17.25.28:045][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.12-17.25.28:046][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.12-17.25.28:076][  0]LogAssetRegistry: FAssetRegistry took 0.0124 seconds to start up
+[2022.10.12-17.25.28:082][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.12-17.25.28:234][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.12-17.25.28:235][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.12-17.25.28:520][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.12-17.25.28:520][  0]LogDeviceProfileManager: Active device profile: [00000B17E2406740][00000B17D7F90000 50] WindowsEditor
+[2022.10.12-17.25.28:520][  0]LogDeviceProfileManager: Profiles: [00000B17E2406900][00000B17D7F95000 50] Windows, [00000B17E2406740][00000B17D7F90000 50] WindowsEditor, [00000B17E2406200][00000B17D7F17800 50] WindowsServer, [00000B17E24040C0][00000B17D7EBC800 50] WindowsClient, [00000B17E2403F00][00000B17D7F92800 50] IOS, [00000B17E2405CC0][00000B17C821A000 50] iPadAir2, [00000B17E24071C0][00000B17E2672800 50] IPadPro, [00000B17E2407540][00000B17E2670000 50] iPadAir3, [00000B17E2402140][00000B17E2677800 50] iPadAir4, [00000B17E2402840][00000B17E267A000 50] iPadMini4, [00000B17E2402300][00000B17E267C800 50] iPadMini5, [00000B17E2404EC0][00000B17DC08C800 50] iPadMini6, [00000B17E240A2C0][00000B17E2685000 50] iPhone6S, [00000B17E240A640][00000B17E2682800 50] iPhone7, [00000B17E240A9C0][00000B17E2680000 50] iPodTouch7, [00000B17E2406040][00000B17E268A000 50] iPhone6SPlus, [00000B17E2409D80][00000B17E268C800 50] iPhone7Plus, [00000B17E2404980][00000B17E2675000 50] iPhoneSE, [00000B17E2407380][00000B17E26A0000 50] iPhone8, [00000B17E2409A00][00000B17E26A5000 50] iPhone8Plus, [00000B17E2407000][00000B17E26A7800 50] iPhoneX, [00000B17E240A800][00000B17E26AA000 50] iPhoneXS, [00000B17E2409840][00000B17E26AC800 50] iPhoneXSMax, [00000B17E24032C0][00000B17E2687800 50] iPhoneXR, [00000B17E2409680][00000B17E26F0000 50] iPhone11, [00000B17E2404D00][00000B17E26F5000 50] iPhone11Pro, [00000B17E24094C0][00000B17E26F7800 50] iPhone11ProMax, [00000B17E2407700][00000B17E26FA000 50] iPhoneSE2, [00000B17E2409300][00000B17E26FC800 50] iPhone12Mini, [00000B17E2404280][00000B17E26A2800 50] iPhone12, [00000B17E24024C0][00000B17E2700000 50] iPhone12Pro, [00000B17E2405400][00000B17E2705000 50] iPhone12ProMax, [00000B17E2409F40][00000B17E2707800 50] iPhone13Mini, [00000B17E2403480][00000B17E270A000 50] iPhone13, [00000B17E2408500][00000B17E270C800 50] iPhone13Pro, [00000B17E240A100][00000B17E26F2800 50] iPhone13ProMax, [00000B17E2405080][00000B17E2710000 50] iPadPro105, [00000B17E2402F40][00000B17E2715000 50] iPadPro129, [00000B17E2409140][00000B17E2717800 50] iPadPro97, [00000B17E2407FC0][00000B17E271A000 50] iPadPro2_129, [00000B17E2404440][00000B17E271C800 50] iPad5, [00000B17E24086C0][00000B17E2702800 50] iPad6, [00000B17E2405780][00000B17E2720000 50] iPad7, [00000B17E2409BC0][00000B17E2725000 50] iPad8, [00000B17E24078C0][00000B17E2727800 50] iPad9, [00000B17E2408340][00000B17E272A000 50] iPadPro11, [00000B17E24055C0][00000B17E272C800 50] iPadPro2_11, [00000B17E2405E80][00000B17E2712800 50] iPadPro3_11, [00000B17E2407A80][00000B17E2730000 50] iPadPro3_129, [00000B17E2405B00][00000B17E2735000 50] iPadPro4_129, [00000B17E2402BC0][00000B17E2737800 50] iPadPro5_129, [00000B17E2406580][00000B17E273A000 50] AppleTV, [00000B17E2403B80][00000B17E273C800 50] AppleTV4K, [00000B17E240AB80][00000B17E2722800 50] TVOS, [00000B17E240C400][00000B17E2742800 50] Mac, [00000B17E240C780][00000B17E2740000 50] MacEditor, [00000B17E2403100][00000B17E2747800 50] MacClient, [00000B17E2408880][00000B17E274A000 50] MacServer, [00000B17E240C5C0][00000B17E2732800 50] Linux, [00000B17E240CE80][00000B17E274C800 50] LinuxEditor, [00000B17E2407C40][00000B17E2750000 50] LinuxArm64Editor, [00000B17E240C240][00000B17E2755000 50] LinuxArm64, [00000B17E24047C0][00000B17E2757800 50] LinuxClient, [00000B17E240D040][00000B17E275A000 50] LinuxArm64Client, [00000B17E2402A00][00000B17E275C800 50] LinuxServer, [00000B17E2405240][00000B17E2745000 50] LinuxArm64Server, [00000B17E240BEC0][00000B17E2760000 50] Android, [00000B17E240BD00][00000B17E2765000 50] Android_Preview_OpenGL, [00000B17E2408F80][00000B17E2767800 50] Android_Preview_Vulkan, [00000B17E240B280][00000B17E276A000 50] Android_Low, [00000B17E24063C0][00000B17E276C800 50] Android_Mid, [00000B17E240B600][00000B17E2752800 50] Android_High, [00000B17E2408DC0][00000B17E2770000 50] Android_Default, [00000B17E240D740][00000B17E2775000 50] Android_Adreno4xx, [00000B17E240B0C0][00000B17E2777800 50] Android_Adreno5xx_Low, [00000B17E2402680][00000B17E277A000 50] Android_Adreno5xx, [00000B17E2408180][00000B17E277C800 50] Android_Adreno6xx, [00000B17E2404B40][00000B17E2762800 50] Android_Adreno6xx_Vulkan, [00000B17E2408C00][00000B17E2780000 50] Android_Adreno7xx, [00000B17E2405940][00000B17E2785000 50] Android_Adreno7xx_Vulkan, [00000B17E240B980][00000B17E2787800 50] Android_Mali_T6xx, [00000B17E2403640][00000B17E278A000 50] Android_Mali_T7xx, [00000B17E2408A40][00000B17E278C800 50] Android_Mali_T8xx, [00000B17E240D3C0][00000B17E2772800 50] Android_Mali_G71, [00000B17E240DAC0][00000B17E2790000 50] Android_Mali_G72, [00000B17E2406E40][00000B17E2795000 50] Android_Mali_G72_Vulkan, [00000B17E240CB00][00000B17E2797800 50] Android_Mali_G76, [00000B17E240D900][00000B17E279A000 50] Android_Mali_G76_Vulkan, [00000B17E240DC80][00000B17E279C800 50] Android_Mali_G77, [00000B17E2407E00][00000B17E2782800 50] Android_Mali_G77_Vulkan, [00000B17E240D580][00000B17E27A0000 50] Android_Mali_G78, [00000B17E240DE40][00000B17E27A5000 50] Android_Mali_G78_Vulkan, [00000B17E240D200][00000B17E27A7800 50] Android_Mali_G710, [00000B17E240A480][00000B17E27AA000 50] Android_Mali_G710_Vulkan, [00000B17E240E000][00000B17E27AC800 50] Android_Xclipse_920, [00000B17E240C080][00000B17E2792800 50] Android_Xclipse_920_Vulkan, [00000B17E2402D80][00000B17E27B0000 50] Android_Vulkan_SM5, [00000B17E240EC40][00000B17E27B5000 50] Android_PowerVR_G6xxx, [00000B17E240E540][00000B17E27B7800 50] Android_PowerVR_GT7xxx, [00000B17E2403D40][00000B17E27BA000 50] Android_PowerVR_GE8xxx, [00000B17E240E8C0][00000B17E27BC800 50] Android_PowerVR_GM9xxx, [00000B17E240B440][00000B17E27A2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B17E240EFC0][00000B17E27C0000 50] Android_TegraK1, [00000B17E240E1C0][00000B17E27C5000 50] Android_Unknown_Vulkan, [00000B17E240B7C0][00000B17E27C7800 50] Oculus_Quest, [00000B17E240F180][00000B17E27CA000 50] Oculus_Quest2, [00000B17E2404600][00000B17E27CC800 50] HoloLens, 
+[2022.10.12-17.25.28:520][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.12-17.25.28:522][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.12-17.25.28:523][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, Installed=1369.122.1.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.12-17.25.28:523][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.12-17.25.28:523][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.12-17.25.28:523][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.16299.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.12-17.25.28:542][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.12-17.25.28:699][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.12-17.25.28:699][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.12-17.25.28:699][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.12-17.25.28:699][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.12-17.25.28:699][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.12-17.25.28:712][  0]LogNetVersion: legoProjectBuildV2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 702308676)
+[2022.10.12-17.25.28:827][  0]LogSlate: Border
+[2022.10.12-17.25.28:827][  0]LogSlate: BreadcrumbButton
+[2022.10.12-17.25.28:827][  0]LogSlate: Default
+[2022.10.12-17.25.28:827][  0]LogSlate: Icons.Save
+[2022.10.12-17.25.28:827][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.12-17.25.28:827][  0]LogSlate: ListView
+[2022.10.12-17.25.28:827][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.12-17.25.28:828][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.12-17.25.28:828][  0]LogSlate: TableView.DarkRow
+[2022.10.12-17.25.28:828][  0]LogSlate: TableView.Row
+[2022.10.12-17.25.28:828][  0]LogSlate: TreeView
+[2022.10.12-17.25.28:994][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.29:021][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.29:021][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.29:126][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.12-17.25.29:126][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.12-17.25.29:126][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.12-17.25.29:536][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FBE9237841FAC2CCCC1CE492C293BD75 | Instance: AF260E5F402BC7990E434995FA281465 (DESKTOP-793B17Q-16380).
+[2022.10.12-17.25.29:565][  0]LogPython: Using Python 3.9.7
+[2022.10.12-17.25.30:381][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.12-17.25.30:385][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.12-17.25.30:460][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.30:470][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.30:477][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.30:542][  0]LogUProjectInfo: Found projects:
+[2022.10.12-17.25.30:709][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.12-17.25.30:767][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.12-17.25.30:785][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.12-17.25.30:785][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.12-17.25.30:865][  0]LogCollectionManager: Loaded 0 collections in 0.002022 seconds
+[2022.10.12-17.25.30:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Saved/Collections/' took 0.00s
+[2022.10.12-17.25.30:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/Developers/scott/Collections/' took 0.00s
+[2022.10.12-17.25.30:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/Collections/' took 0.00s
+[2022.10.12-17.25.31:181][  0]LogEngine: Initializing Engine...
+[2022.10.12-17.25.31:194][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.12-17.25.31:195][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.12-17.25.31:426][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.12-17.25.31:426][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.12-17.25.31:437][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-17.25.31:465][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.12-17.25.31:466][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.12-17.25.31:487][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.12-17.25.31:487][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.12-17.25.31:487][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.12-17.25.31:488][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.12-17.25.31:488][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-17.25.31:488][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-17.25.31:488][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-17.25.31:488][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-17.25.31:488][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-17.25.31:488][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-17.25.31:495][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-17.25.31:529][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2022.10.12-17.25.31:529][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-17.25.31:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-17.25.31:532][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-17.25.31:532][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.12-17.25.31:532][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.12-17.25.31:533][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.12-17.25.31:533][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.12-17.25.31:533][  0]LogInit: FAudioDevice initialized.
+[2022.10.12-17.25.31:533][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.12-17.25.31:533][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.12-17.25.31:533][  0]LogInit: Texture streaming: Enabled
+[2022.10.12-17.25.31:566][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.12-17.25.31:575][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.12-17.25.31:642][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.12-17.25.31:649][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.12-17.25.31:649][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.12-17.25.32:813][  0]LogLiveCoding: Display: First instance in process group "UE_legoProjectBuildV2_0x05082a7c", spawning console
+[2022.10.12-17.25.32:813][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.12-17.25.32:813][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.12-17.25.32:856][  0]LogInit: Transaction tracking system initialized
+[2022.10.12-17.25.32:933][  0]BlueprintLog: New page: Editor Load
+[2022.10.12-17.25.33:129][  0]LocalizationService: Localization service is disabled
+[2022.10.12-17.25.33:177][  0]TimingProfiler: Initialize
+[2022.10.12-17.25.33:177][  0]TimingProfiler: OnSessionChanged
+[2022.10.12-17.25.33:177][  0]LoadingProfiler: Initialize
+[2022.10.12-17.25.33:177][  0]LoadingProfiler: OnSessionChanged
+[2022.10.12-17.25.33:177][  0]NetworkingProfiler: Initialize
+[2022.10.12-17.25.33:177][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.12-17.25.33:177][  0]MemoryProfiler: Initialize
+[2022.10.12-17.25.33:177][  0]MemoryProfiler: OnSessionChanged
+[2022.10.12-17.25.33:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/' took 0.03s
+[2022.10.12-17.25.33:684][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.12-17.25.33:876][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.12-17.25.33:878][  0]SourceControl: Source control is disabled
+[2022.10.12-17.25.33:878][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.437
+[2022.10.12-17.25.33:878][  0]Cmd: MAP LOAD FILE="../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.12-17.25.33:878][  0]LightingResults: New page: Lighting Build
+[2022.10.12-17.25.33:885][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-17.25.33:885][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-17.25.33:885][  0]MapCheck: New page: Map Check
+[2022.10.12-17.25.33:885][  0]LightingResults: New page: Lighting Build
+[2022.10.12-17.25.33:889][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-17.25.33:892][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.12-17.25.34:327][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder should be resaved to improve async compilation performance.
+[2022.10.12-17.25.34:327][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe should be resaved to improve async compilation performance.
+[2022.10.12-17.25.34:393][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.10.12-17.25.34:402][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-17.25.34:402][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.12-17.25.34:403][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.12-17.25.34:403][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.12-17.25.34:536][  0]LogWorldPartition: Display: WorldPartition initialize took 133 ms
+[2022.10.12-17.25.34:555][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Mannequin) ...
+[2022.10.12-17.25.34:560][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.12-17.25.34:567][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.12-17.25.34:568][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.12-17.25.34:568][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2022.10.12-17.25.34:568][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.691
+[2022.10.12-17.25.34:582][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.142
+[2022.10.12-17.25.34:582][  0]LogShaderCompilers: Display: ================================================
+[2022.10.12-17.25.34:582][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.12-17.25.34:582][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.12-17.25.34:583][  0]LogShaderCompilers: Display: ================================================
+[2022.10.12-17.25.34:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-17.25.34:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-17.25.34:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-17.25.34:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-17.25.34:709][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:709][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:709][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:709][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:710][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:710][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:710][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:710][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:711][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:711][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:711][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:711][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:712][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:712][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:712][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:712][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:713][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:713][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:713][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.12-17.25.34:713][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.12-17.25.34:713][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.12-17.25.34:874][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.12-17.25.34:877][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.12-17.25.34:878][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.12-17.25.34:879][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.12-17.25.34:880][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.12-17.25.34:896][  0]LogViewport: Scene viewport resized to 1397x489, mode Windowed.
+[2022.10.12-17.25.34:924][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.12-17.25.35:354][  0]LogStall: Startup...
+[2022.10.12-17.25.35:355][  0]LogStall: Startup complete.
+[2022.10.12-17.25.35:368][  0]LogLoad: (Engine Initialization) Total time: 10.93 seconds
+[2022.10.12-17.25.35:368][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.12-17.25.35:411][  0]LogAssetRegistry: Asset discovery search completed in 7.3357 seconds
+[2022.10.12-17.25.35:417][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.12-17.25.35:420][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.12-17.25.38:581][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\OffroadCar\SKM_Offroad.uasset: Failed to load '/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main': Can't find file.
+[2022.10.12-17.25.38:581][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main'
+[2022.10.12-17.25.38:581][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\OffroadCar\SKM_Offroad.uasset: Failed to load '/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Suspension': Can't find file.
+[2022.10.12-17.25.38:581][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Suspension'
+[2022.10.12-17.25.38:581][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\OffroadCar\SKM_Offroad.uasset: Failed to load '/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Wheel': Can't find file.
+[2022.10.12-17.25.38:581][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Wheel'
+[2022.10.12-17.25.38:582][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\OffroadCar\SKM_Offroad.uasset: Failed to load '/Game/Vehicles/OffroadCar/SKM_Offroad_PhysicsAsset': Can't find file.
+[2022.10.12-17.25.38:582][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/OffroadCar/SKM_Offroad_PhysicsAsset'
+[2022.10.12-17.25.38:582][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\OffroadCar\SKM_Offroad.uasset: Failed to load '/Game/Vehicles/OffroadCar/SKM_Offroad_Skeleton': Can't find file.
+[2022.10.12-17.25.38:582][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/OffroadCar/SKM_Offroad_Skeleton'
+[2022.10.12-17.25.38:740][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights': Can't find file.
+[2022.10.12-17.25.38:740][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights'
+[2022.10.12-17.25.38:740][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/Materials/M_SportsCar_Wheel': Can't find file.
+[2022.10.12-17.25.38:740][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/Materials/M_SportsCar_Wheel'
+[2022.10.12-17.25.38:740][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Body': Can't find file.
+[2022.10.12-17.25.38:741][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/Materials/MI_SportsCar_Body'
+[2022.10.12-17.25.38:741][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Chassis': Can't find file.
+[2022.10.12-17.25.38:741][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/Materials/MI_SportsCar_Chassis'
+[2022.10.12-17.25.38:741][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Tire': Can't find file.
+[2022.10.12-17.25.38:741][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/Materials/MI_SportsCar_Tire'
+[2022.10.12-17.25.38:742][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/SportsCar_PhysicsAsset': Can't find file.
+[2022.10.12-17.25.38:742][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/SportsCar_PhysicsAsset'
+[2022.10.12-17.25.38:742][312]LogLinker: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\Vehicles\SportsCar\SKM_SportsCar.uasset: Failed to load '/Game/Vehicles/SportsCar/SportsCar_Skeleton': Can't find file.
+[2022.10.12-17.25.38:742][312]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Vehicles/SportsCar/SportsCar_Skeleton'
+[2022.10.12-17.25.38:824][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.12-17.25.39:842][312]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-17.25.40:034][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.12-17.25.40:039][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.12-17.25.40:044][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.10.12-17.25.40:540][322]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.10.12-17.25.46:899][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.12-17.25.49:181][999]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-17.25.49:193][999]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SportsCar_CtrlRig_Take1.SportsCar_CtrlRig_Take1
+	Asset Type: LevelSequence
+[2022.10.12-17.25.49:342][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.12-17.25.49:348][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.12-17.25.49:353][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.12-17.26.14:997][559]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.12-17.26.26:323][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MF_ProcGrid.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2022.10.12-17.26.26:323][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_Gray.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2022.10.12-17.26.26:337][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_TopDark.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2022.10.12-17.26.26:337][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_Solid_Blue.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset
+[2022.10.12-17.26.26:337][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_PrototypeGrid.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2022.10.12-17.26.26:338][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_Solid.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Materials/M_Solid.uasset
+[2022.10.12-17.26.26:338][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Textures/T_GridChecker_A.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2022.10.12-17.26.26:338][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_ChamferCube.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset
+[2022.10.12-17.26.26:338][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cube.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2022.10.12-17.26.26:340][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_QuarterCylinder.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2022.10.12-17.26.26:341][355]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Ramp.uasset to ../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2022.10.12-17.26.26:365][355]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.10.12-17.26.26:370][355]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.12-17.26.26:410][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/OffroadGameMode.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/OffroadGameMode.uasset"
+[2022.10.12-17.26.26:419][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset"
+[2022.10.12-17.26.26:436][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset"
+[2022.10.12-17.26.26:449][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/VehicleUI.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/VehicleUI.uasset"
+[2022.10.12-17.26.26:462][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Maps/VehicleExampleMap.umap" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Maps/VehicleExampleMap.umap"
+[2022.10.12-17.26.26:467][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Maps/VehicleOffroadExampleMap.umap" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Maps/VehicleOffroadExampleMap.umap"
+[2022.10.12-17.26.26:467][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Maps/VehicleOffroadExampleMap_HLOD0_Instancing.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Maps/VehicleOffroadExampleMap_HLOD0_Instancing.uasset"
+[2022.10.12-17.26.26:480][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset"
+[2022.10.12-17.26.26:957][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.uasset"
+[2022.10.12-17.26.26:984][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront.uasset"
+[2022.10.12-17.26.26:993][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear.uasset"
+[2022.10.12-17.26.27:014][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset"
+[2022.10.12-17.26.27:023][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset"
+[2022.10.12-17.26.27:052][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset"
+[2022.10.12-17.26.27:059][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset"
+[2022.10.12-17.26.27:102][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/9C/C2H18IMFHO7GCAKJAJEWR1.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/9C/C2H18IMFHO7GCAKJAJEWR1.uasset"
+[2022.10.12-17.26.27:106][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/KH/7UZTS1KQ9C3D8VCY0LU7D4.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/KH/7UZTS1KQ9C3D8VCY0LU7D4.uasset"
+[2022.10.12-17.26.27:112][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/VZ/RO3QWXLUI0FCFWSB7PRWYH.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/VZ/RO3QWXLUI0FCFWSB7PRWYH.uasset"
+[2022.10.12-17.26.27:113][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/QY/BWIOH8DIKNFMOEFU99E2KD.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/QY/BWIOH8DIKNFMOEFU99E2KD.uasset"
+[2022.10.12-17.26.27:114][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/I9/SX4BRTOLSHZ4SO97WG9F6S.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/I9/SX4BRTOLSHZ4SO97WG9F6S.uasset"
+[2022.10.12-17.26.27:114][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/O1/ZU68OYX8E9GSPKN55UURZO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/O1/ZU68OYX8E9GSPKN55UURZO.uasset"
+[2022.10.12-17.26.27:117][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/8Z/8O4O20NVAUFW84ZP4YO7II.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/8Z/8O4O20NVAUFW84ZP4YO7II.uasset"
+[2022.10.12-17.26.27:118][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/0W/5MFYIXWW8GWPA7IC4GN3FB.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/0W/5MFYIXWW8GWPA7IC4GN3FB.uasset"
+[2022.10.12-17.26.27:123][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/7Y/WQ1G94TAXTE1YVN2INDKQ5.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/7Y/WQ1G94TAXTE1YVN2INDKQ5.uasset"
+[2022.10.12-17.26.27:123][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/3R/45DCKE3RQWYS2QXLFFGWXK.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/3R/45DCKE3RQWYS2QXLFFGWXK.uasset"
+[2022.10.12-17.26.27:135][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset"
+[2022.10.12-17.26.27:148][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset"
+[2022.10.12-17.26.27:668][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/U5/8JZFKBCUEF0B387SN8YEIP.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/U5/8JZFKBCUEF0B387SN8YEIP.uasset"
+[2022.10.12-17.26.27:767][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/GT/DVHRIRLU9GVKHFO3UTR8FO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/GT/DVHRIRLU9GVKHFO3UTR8FO.uasset"
+[2022.10.12-17.26.27:828][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/KP/UJKIIP0UWRL5P345SHLOEJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/KP/UJKIIP0UWRL5P345SHLOEJ.uasset"
+[2022.10.12-17.26.27:888][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/6B/35BADYNNBJZPEYUTHJKTQU.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/6B/35BADYNNBJZPEYUTHJKTQU.uasset"
+[2022.10.12-17.26.27:963][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/LP/UZ50PDVAY299IMPNI9D2JC.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/LP/UZ50PDVAY299IMPNI9D2JC.uasset"
+[2022.10.12-17.26.28:028][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/M5/B1Z4KPTFV1L2EREMS5IW1R.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/M5/B1Z4KPTFV1L2EREMS5IW1R.uasset"
+[2022.10.12-17.26.28:098][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/6T/LR1OAKEVJOOPQRQLMJQ8VD.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/6T/LR1OAKEVJOOPQRQLMJQ8VD.uasset"
+[2022.10.12-17.26.28:149][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/RE/TT0PNWXRJG2FZF8C4J0AEQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/RE/TT0PNWXRJG2FZF8C4J0AEQ.uasset"
+[2022.10.12-17.26.28:199][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset"
+[2022.10.12-17.26.28:219][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/0/IW/DAKW2A6SCQ6ZK9Q92M368D.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/0/IW/DAKW2A6SCQ6ZK9Q92M368D.uasset"
+[2022.10.12-17.26.28:377][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/H0/LYTDGJWOH7OXH2EDGARXVB.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/H0/LYTDGJWOH7OXH2EDGARXVB.uasset"
+[2022.10.12-17.26.28:394][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/5Q/R91HTPJGCTT11W21J2XSVY.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/5Q/R91HTPJGCTT11W21J2XSVY.uasset"
+[2022.10.12-17.26.28:573][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset"
+[2022.10.12-17.26.28:589][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/NC/X5FY5G6NYCW5E554TE5F5H.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/NC/X5FY5G6NYCW5E554TE5F5H.uasset"
+[2022.10.12-17.26.28:602][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/J6/FATC6RSAGYSG8G4CTB1IAT.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/J6/FATC6RSAGYSG8G4CTB1IAT.uasset"
+[2022.10.12-17.26.28:628][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/WI/5NFX0QG7YV9FB54TNR4PT1.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/WI/5NFX0QG7YV9FB54TNR4PT1.uasset"
+[2022.10.12-17.26.28:690][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/I5/39QMOMX0SBF5P8WX11O0V6.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/I5/39QMOMX0SBF5P8WX11O0V6.uasset"
+[2022.10.12-17.26.28:690][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/LO/35SUB29C3KQDMIXSHRFU72.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/LO/35SUB29C3KQDMIXSHRFU72.uasset"
+[2022.10.12-17.26.28:700][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/WW/FO9B6T5LMMCOKJG4HCFNL1.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/WW/FO9B6T5LMMCOKJG4HCFNL1.uasset"
+[2022.10.12-17.26.28:706][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/Q4/V758X99SGCELUD0EM4HK4G.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/Q4/V758X99SGCELUD0EM4HK4G.uasset"
+[2022.10.12-17.26.28:713][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HQ/JFSCDHM3DQXDWPJD8RHGWV.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HQ/JFSCDHM3DQXDWPJD8RHGWV.uasset"
+[2022.10.12-17.26.28:723][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/1/XO/X6RBKU252RP7CZ9VXF9MR1.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/1/XO/X6RBKU252RP7CZ9VXF9MR1.uasset"
+[2022.10.12-17.26.28:736][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/VA/BP3BNYMRT7OCWW3Q3M2ZTR.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/VA/BP3BNYMRT7OCWW3Q3M2ZTR.uasset"
+[2022.10.12-17.26.28:747][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/RG/6FX3FVZLOTLUYLWS5AEE1A.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/RG/6FX3FVZLOTLUYLWS5AEE1A.uasset"
+[2022.10.12-17.26.28:754][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/0F/98ISP8O7J3TB8XGN5PCRB0.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/0F/98ISP8O7J3TB8XGN5PCRB0.uasset"
+[2022.10.12-17.26.28:758][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/Q9/7E8THLUEF2U8O6DZQRWSX9.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/Q9/7E8THLUEF2U8O6DZQRWSX9.uasset"
+[2022.10.12-17.26.28:770][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/5/BP/7ZZR3F8VA42X0Y8GY9FR5F.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/5/BP/7ZZR3F8VA42X0Y8GY9FR5F.uasset"
+[2022.10.12-17.26.28:778][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/3/XY/OU7YANIF0KNUVHCR6XLSE7.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/3/XY/OU7YANIF0KNUVHCR6XLSE7.uasset"
+[2022.10.12-17.26.28:987][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/8/HH/AY6CLBSAHJ7OA3GAJGYOOZ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/8/HH/AY6CLBSAHJ7OA3GAJGYOOZ.uasset"
+[2022.10.12-17.26.29:049][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/S4/39R99VDAXF7X1T8FW5O7G5.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/S4/39R99VDAXF7X1T8FW5O7G5.uasset"
+[2022.10.12-17.26.29:069][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/CY/SK86WXEMPPZUE4YVJTGLQ6.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/CY/SK86WXEMPPZUE4YVJTGLQ6.uasset"
+[2022.10.12-17.26.29:084][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/QK/WHFAHLNTWJMNZYLA9KC53A.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/QK/WHFAHLNTWJMNZYLA9KC53A.uasset"
+[2022.10.12-17.26.29:097][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/TA/U664AWMHK82ILNKVILVHLI.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/TA/U664AWMHK82ILNKVILVHLI.uasset"
+[2022.10.12-17.26.29:113][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/PB/PMZMUVES09FA7D3OODVDX0.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/PB/PMZMUVES09FA7D3OODVDX0.uasset"
+[2022.10.12-17.26.29:127][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/G9/TGSHVVG7B0LZZ0YTDHC7XF.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/G9/TGSHVVG7B0LZZ0YTDHC7XF.uasset"
+[2022.10.12-17.26.29:140][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/UP/HM3YG02LLRWGD06ZK1PRPJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/UP/HM3YG02LLRWGD06ZK1PRPJ.uasset"
+[2022.10.12-17.26.29:153][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/EX/FFAPIDWLLJERKY33G46PBB.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/EX/FFAPIDWLLJERKY33G46PBB.uasset"
+[2022.10.12-17.26.29:355][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/S0/RJKVJCDVTHKGGSDSDG2W9T.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/3/S0/RJKVJCDVTHKGGSDSDG2W9T.uasset"
+[2022.10.12-17.26.29:442][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/98/M2D80SQDTFQXJL08IA9Y2B.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/98/M2D80SQDTFQXJL08IA9Y2B.uasset"
+[2022.10.12-17.26.29:444][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/PJ/1UJNHFA5UDA7B70PVH6X7O.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/PJ/1UJNHFA5UDA7B70PVH6X7O.uasset"
+[2022.10.12-17.26.29:444][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/6V/Y43952I6PADWYXPC2BKZKZ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/6V/Y43952I6PADWYXPC2BKZKZ.uasset"
+[2022.10.12-17.26.29:467][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/AD/TQP7M7G6HGE7S5X9NC8K40.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/AD/TQP7M7G6HGE7S5X9NC8K40.uasset"
+[2022.10.12-17.26.29:483][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/5J/C0ICJ8P8TU8TANIKO91ZL4.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/5J/C0ICJ8P8TU8TANIKO91ZL4.uasset"
+[2022.10.12-17.26.29:500][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/PY/607EI32F2OE5T701L65UBU.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/PY/607EI32F2OE5T701L65UBU.uasset"
+[2022.10.12-17.26.29:644][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/TM/79SRDO8VMIGKE2GOWPD9TO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/TM/79SRDO8VMIGKE2GOWPD9TO.uasset"
+[2022.10.12-17.26.29:667][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/VU/MC4M85CWMGITZSUDBSQOFV.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/VU/MC4M85CWMGITZSUDBSQOFV.uasset"
+[2022.10.12-17.26.29:689][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/WA/42EA4WKYDPM75MQ3TNWBF7.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/WA/42EA4WKYDPM75MQ3TNWBF7.uasset"
+[2022.10.12-17.26.29:806][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/6/9G/Y0KA71R67HHPFQPDZ6FRZC.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/6/9G/Y0KA71R67HHPFQPDZ6FRZC.uasset"
+[2022.10.12-17.26.30:417][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/97/WMMSB69PR7GIB51ZJRT211.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/97/WMMSB69PR7GIB51ZJRT211.uasset"
+[2022.10.12-17.26.30:441][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/66/N7ELVY19D863HQ7848N7IE.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/66/N7ELVY19D863HQ7848N7IE.uasset"
+[2022.10.12-17.26.30:461][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/B1/K7F7F9DKUK78EXGLFK8082.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/B1/K7F7F9DKUK78EXGLFK8082.uasset"
+[2022.10.12-17.26.30:496][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/EX/7QRV68B7DC8QOC9CL45Q7O.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/EX/7QRV68B7DC8QOC9CL45Q7O.uasset"
+[2022.10.12-17.26.30:525][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/IJ/L1RT3L9M0TIWIH3JYHX90S.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/IJ/L1RT3L9M0TIWIH3JYHX90S.uasset"
+[2022.10.12-17.26.30:568][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/EJ/EK3H9OISA6HC2T2K5DU3XS.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/EJ/EK3H9OISA6HC2T2K5DU3XS.uasset"
+[2022.10.12-17.26.30:920][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/J8/UKED4I7E7S8PCRX6HP5UKJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/J8/UKED4I7E7S8PCRX6HP5UKJ.uasset"
+[2022.10.12-17.26.30:936][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/QN/VS6AWFCAAFTVJLFSM9DK1P.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/QN/VS6AWFCAAFTVJLFSM9DK1P.uasset"
+[2022.10.12-17.26.30:955][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/SB/2TYBBDS4U6WJC2Y6V6FRDQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/SB/2TYBBDS4U6WJC2Y6V6FRDQ.uasset"
+[2022.10.12-17.26.30:960][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/SZ/JYKMNBFHO9JD7KJT354BRE.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/SZ/JYKMNBFHO9JD7KJT354BRE.uasset"
+[2022.10.12-17.26.30:980][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/T5/8FSQ5RLSOFAP8O94NOSB1B.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/T5/8FSQ5RLSOFAP8O94NOSB1B.uasset"
+[2022.10.12-17.26.30:999][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/LH/O40QUFV4M4X61OQ4CQTQBG.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/LH/O40QUFV4M4X61OQ4CQTQBG.uasset"
+[2022.10.12-17.26.31:017][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/C1/IHFYDWYQQ86R3X6KA2O6CQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/C1/IHFYDWYQQ86R3X6KA2O6CQ.uasset"
+[2022.10.12-17.26.31:066][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/HI/1VQADIHZUCN4UMXNIZZZA2.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/0/HI/1VQADIHZUCN4UMXNIZZZA2.uasset"
+[2022.10.12-17.26.31:076][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/E2/8B0TZ9O1SVJJGT970J4ISO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/E2/8B0TZ9O1SVJJGT970J4ISO.uasset"
+[2022.10.12-17.26.31:097][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/U6/8ZCPPWSQ5MENJZV56QZM9Z.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/U6/8ZCPPWSQ5MENJZV56QZM9Z.uasset"
+[2022.10.12-17.26.31:120][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/WQ/H9OTZ0FZSIA35A3846ZTFK.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/5/WQ/H9OTZ0FZSIA35A3846ZTFK.uasset"
+[2022.10.12-17.26.31:138][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/G6/3H4VYUFZY2HFAAD3YG37SF.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/G6/3H4VYUFZY2HFAAD3YG37SF.uasset"
+[2022.10.12-17.26.31:524][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/Z0/3XWVWGGXHN1AZI6JLUJQIE.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/Z0/3XWVWGGXHN1AZI6JLUJQIE.uasset"
+[2022.10.12-17.26.31:538][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/Y1/O5VJ91UQF7VJLW9RYGTU78.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/Y1/O5VJ91UQF7VJLW9RYGTU78.uasset"
+[2022.10.12-17.26.31:553][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/7/BV/OUXRJD33RXC9NIDYKFJB62.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalObjects__/VehicleTemplate/Maps/VehicleExampleMap/7/BV/OUXRJD33RXC9NIDYKFJB62.uasset"
+[2022.10.12-17.26.31:566][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/NY/WFVR2LPKZ0BZNIBJ3SNOIJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/NY/WFVR2LPKZ0BZNIBJ3SNOIJ.uasset"
+[2022.10.12-17.26.31:584][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/E6/F6IO9BAJMDVV6Y83FP0X54.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/E6/F6IO9BAJMDVV6Y83FP0X54.uasset"
+[2022.10.12-17.26.31:591][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/IQ/1YANNPHEN149IBJT9JACVT.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/IQ/1YANNPHEN149IBJT9JACVT.uasset"
+[2022.10.12-17.26.31:607][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/71/B2OBX2FCXXATCMXBTP5M2T.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/71/B2OBX2FCXXATCMXBTP5M2T.uasset"
+[2022.10.12-17.26.31:626][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/2B/I7D9107O94TBJ2IAIOFMVP.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/2B/I7D9107O94TBJ2IAIOFMVP.uasset"
+[2022.10.12-17.26.31:640][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/1V/18JQFU0A162B2JBW81OCDM.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/1V/18JQFU0A162B2JBW81OCDM.uasset"
+[2022.10.12-17.26.31:688][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/G7/Y1K5CZIWWVLPDHVN6HRJ6S.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/G7/Y1K5CZIWWVLPDHVN6HRJ6S.uasset"
+[2022.10.12-17.26.31:716][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/HE/RNCJ3D1TYII3UBJK1Z4GJ1.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/HE/RNCJ3D1TYII3UBJK1Z4GJ1.uasset"
+[2022.10.12-17.26.31:730][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/MW/M8AO8WH23VGKSLUWBUHPJO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/MW/M8AO8WH23VGKSLUWBUHPJO.uasset"
+[2022.10.12-17.26.31:838][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/DK/OTFU7FCI9H36TPVFSDHZPJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/DK/OTFU7FCI9H36TPVFSDHZPJ.uasset"
+[2022.10.12-17.26.31:981][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/O4/E3Z8H79ZU52XLU8ILP50RQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/O4/E3Z8H79ZU52XLU8ILP50RQ.uasset"
+[2022.10.12-17.26.32:027][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/9S/1MVJBLZHBGN4RALSC15FAA.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/9S/1MVJBLZHBGN4RALSC15FAA.uasset"
+[2022.10.12-17.26.32:136][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/WG/0OY7BI8RUK5EV4PT3CT987.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/9/WG/0OY7BI8RUK5EV4PT3CT987.uasset"
+[2022.10.12-17.26.32:145][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/4X/TFUEUCY1IFT2LEF8SGF0FC.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/4X/TFUEUCY1IFT2LEF8SGF0FC.uasset"
+[2022.10.12-17.26.32:176][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/ZB/VX72CWBUJMPYSADFZ2185I.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/8/ZB/VX72CWBUJMPYSADFZ2185I.uasset"
+[2022.10.12-17.26.32:206][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/6T/PJ5V0AH3HC3AHUS0PTYRDC.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/6T/PJ5V0AH3HC3AHUS0PTYRDC.uasset"
+[2022.10.12-17.26.32:215][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/89/L4UJJKTALP223UZXU90IDP.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/89/L4UJJKTALP223UZXU90IDP.uasset"
+[2022.10.12-17.26.32:223][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/7R/O4TQCUKM80TLZ9T2ME4EIK.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/7R/O4TQCUKM80TLZ9T2ME4EIK.uasset"
+[2022.10.12-17.26.32:238][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/EY/3KWNCX3WUA9Q75PT214AKU.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/EY/3KWNCX3WUA9Q75PT214AKU.uasset"
+[2022.10.12-17.26.32:258][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/FR/BGEDKJGLZO0RGGU56Y7OH8.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/FR/BGEDKJGLZO0RGGU56Y7OH8.uasset"
+[2022.10.12-17.26.32:280][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/J0/X8DPM3PTTIRQTPI771ZRCJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/J0/X8DPM3PTTIRQTPI771ZRCJ.uasset"
+[2022.10.12-17.26.32:302][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/5L/PUWW987WQV8UX3RAE5X2KQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/5L/PUWW987WQV8UX3RAE5X2KQ.uasset"
+[2022.10.12-17.26.32:320][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/AO/22HJ43Y4H5XLJNZMX8N7ZD.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/AO/22HJ43Y4H5XLJNZMX8N7ZD.uasset"
+[2022.10.12-17.26.32:326][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/QR/VL7AJVLIH3KZ77P35PKDLH.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/QR/VL7AJVLIH3KZ77P35PKDLH.uasset"
+[2022.10.12-17.26.32:677][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/E5/TFNT6CTPHAH8KJGD121E32.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/E5/TFNT6CTPHAH8KJGD121E32.uasset"
+[2022.10.12-17.26.32:728][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/KF/SDG297WKXW8J65CC7F6GXO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/KF/SDG297WKXW8J65CC7F6GXO.uasset"
+[2022.10.12-17.26.32:746][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/LX/2ZZWWTGAZKHFAJ6WUKO7HP.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/LX/2ZZWWTGAZKHFAJ6WUKO7HP.uasset"
+[2022.10.12-17.26.32:768][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/Q3/S6VW6P7811W6A606FQ75M5.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/Q3/S6VW6P7811W6A606FQ75M5.uasset"
+[2022.10.12-17.26.32:816][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/UG/9SDZYYD1PNIYWPUIP7HUFW.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/UG/9SDZYYD1PNIYWPUIP7HUFW.uasset"
+[2022.10.12-17.26.32:826][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/TZ/EC892C54JF3LZLFMYOXAII.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/TZ/EC892C54JF3LZLFMYOXAII.uasset"
+[2022.10.12-17.26.32:838][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/ZN/VDUTP7FDAA3NP3O8GYT4GR.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/ZN/VDUTP7FDAA3NP3O8GYT4GR.uasset"
+[2022.10.12-17.26.32:855][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/TE/9578C2BRMFTOKIEWU872TA.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/TE/9578C2BRMFTOKIEWU872TA.uasset"
+[2022.10.12-17.26.32:875][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/X6/ZTE2ZMJSNHGTEGJNSY21KM.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/X6/ZTE2ZMJSNHGTEGJNSY21KM.uasset"
+[2022.10.12-17.26.33:276][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/1P/LIVOURXQMVQB9GBPKV0RLA.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/1P/LIVOURXQMVQB9GBPKV0RLA.uasset"
+[2022.10.12-17.26.33:287][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/P4/NHX3D4XKGXMTMD7ZRZWAGC.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/B/P4/NHX3D4XKGXMTMD7ZRZWAGC.uasset"
+[2022.10.12-17.26.33:321][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/8E/8M1BCHTIQ1TPH55614JSC2.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/8E/8M1BCHTIQ1TPH55614JSC2.uasset"
+[2022.10.12-17.26.33:333][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/5D/3ESC50ZOSZICNR5FVRAHMQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/5D/3ESC50ZOSZICNR5FVRAHMQ.uasset"
+[2022.10.12-17.26.33:345][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/IM/9L19XYT14UBW4G25Q5ESMY.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/IM/9L19XYT14UBW4G25Q5ESMY.uasset"
+[2022.10.12-17.26.33:361][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/DB/Y937NP92ITHTUWC9LS3KMS.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/DB/Y937NP92ITHTUWC9LS3KMS.uasset"
+[2022.10.12-17.26.33:472][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/9I/QQ2F8L9GEFB7T08967G82N.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/9I/QQ2F8L9GEFB7T08967G82N.uasset"
+[2022.10.12-17.26.33:484][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/4B/6Q0N8OXHI18Z64MHV9KKS9.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/4B/6Q0N8OXHI18Z64MHV9KKS9.uasset"
+[2022.10.12-17.26.33:522][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/8P/P8C9N6JIBUT4GI44MAF1R6.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/8P/P8C9N6JIBUT4GI44MAF1R6.uasset"
+[2022.10.12-17.26.33:537][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/DQ/OZENY6LDF02Z53NICO9C6W.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/DQ/OZENY6LDF02Z53NICO9C6W.uasset"
+[2022.10.12-17.26.33:549][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/9Q/7OAB1JX9PCWI5W5I8VK6DK.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/9Q/7OAB1JX9PCWI5W5I8VK6DK.uasset"
+[2022.10.12-17.26.33:563][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/DV/SSSDZF2KMOES00KW8WZXNH.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/DV/SSSDZF2KMOES00KW8WZXNH.uasset"
+[2022.10.12-17.26.33:591][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/K8/DGO7RO4NWOQGQZNIO7UI00.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/K8/DGO7RO4NWOQGQZNIO7UI00.uasset"
+[2022.10.12-17.26.33:602][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/KB/1RP8T0MJFLB5JD2YIQC3CY.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/KB/1RP8T0MJFLB5JD2YIQC3CY.uasset"
+[2022.10.12-17.26.33:621][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/KC/YQZWWS22NCAMSX1MT7T2AY.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/KC/YQZWWS22NCAMSX1MT7T2AY.uasset"
+[2022.10.12-17.26.33:645][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/TE/CKY6K12XJNMC6ERL9EKJPU.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/TE/CKY6K12XJNMC6ERL9EKJPU.uasset"
+[2022.10.12-17.26.33:673][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/ZV/DBH96JSUHLEVNRDWWCMINY.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/ZV/DBH96JSUHLEVNRDWWCMINY.uasset"
+[2022.10.12-17.26.33:727][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/JT/00K8RFA59LNPINRWXZ8NWA.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/JT/00K8RFA59LNPINRWXZ8NWA.uasset"
+[2022.10.12-17.26.34:059][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/2S/VM33DBTYF5D5J2RZ0M3HD1.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/2S/VM33DBTYF5D5J2RZ0M3HD1.uasset"
+[2022.10.12-17.26.34:111][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/QP/8TFQ014Y8J0VBTNUDT105K.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/QP/8TFQ014Y8J0VBTNUDT105K.uasset"
+[2022.10.12-17.26.34:140][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/6H/XJHLN3DHXET5M8P50S61H4.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/6H/XJHLN3DHXET5M8P50S61H4.uasset"
+[2022.10.12-17.26.34:165][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/8N/A1L60D6VCRPRSRNZPYV78C.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/7/8N/A1L60D6VCRPRSRNZPYV78C.uasset"
+[2022.10.12-17.26.34:180][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/GH/YOQH19T0LMYF4KFPE1EE7P.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/E/GH/YOQH19T0LMYF4KFPE1EE7P.uasset"
+[2022.10.12-17.26.34:188][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/RX/56XP4QKFGH30U7J61JSB1M.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/RX/56XP4QKFGH30U7J61JSB1M.uasset"
+[2022.10.12-17.26.34:194][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/GD/QG7BMCJ0HPUE4EV8KLRYCP.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/GD/QG7BMCJ0HPUE4EV8KLRYCP.uasset"
+[2022.10.12-17.26.34:197][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/ZR/RM943D375MUJPRYY7D8YN8.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/ZR/RM943D375MUJPRYY7D8YN8.uasset"
+[2022.10.12-17.26.34:488][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/5C/5G8PYJ4E4VYUH6BJJZ6714.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/5C/5G8PYJ4E4VYUH6BJJZ6714.uasset"
+[2022.10.12-17.26.34:499][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/VF/EQ3II9PWT8KZ8ZWI760AL4.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/VF/EQ3II9PWT8KZ8ZWI760AL4.uasset"
+[2022.10.12-17.26.34:503][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/E2/6I9E7WILXY2EU7RWL5F48V.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/E2/6I9E7WILXY2EU7RWL5F48V.uasset"
+[2022.10.12-17.26.34:523][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/SJ/ESXDT61L94O12QP3QF75SY.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/SJ/ESXDT61L94O12QP3QF75SY.uasset"
+[2022.10.12-17.26.34:524][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/AM/FMZNMXP56TSX2S5IL9M7XK.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/AM/FMZNMXP56TSX2S5IL9M7XK.uasset"
+[2022.10.12-17.26.34:535][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/30/EXEN8BYTWNFPJJRLE00CJ2.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/30/EXEN8BYTWNFPJJRLE00CJ2.uasset"
+[2022.10.12-17.26.34:546][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset"
+[2022.10.12-17.26.34:570][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset"
+[2022.10.12-17.26.34:580][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/UF/QZCJ2TCKW7XORELZJOKKW3.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/UF/QZCJ2TCKW7XORELZJOKKW3.uasset"
+[2022.10.12-17.26.34:584][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/3W/RB6196BR3NVWEX5183BKEN.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/3W/RB6196BR3NVWEX5183BKEN.uasset"
+[2022.10.12-17.26.34:596][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/86/GLKD8JJZ17E0C65KRFYIG0.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/86/GLKD8JJZ17E0C65KRFYIG0.uasset"
+[2022.10.12-17.26.34:613][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/F2/ICESASNKO3BIL3VTCW0GXQ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/F2/ICESASNKO3BIL3VTCW0GXQ.uasset"
+[2022.10.12-17.26.34:702][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/C6/CGAQ08W7K77X3A78DOH23G.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/C6/CGAQ08W7K77X3A78DOH23G.uasset"
+[2022.10.12-17.26.34:761][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/3J/4F8D55YY876CV2HZ7PRCGA.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/3J/4F8D55YY876CV2HZ7PRCGA.uasset"
+[2022.10.12-17.26.34:761][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/2J/S5952G7WHXP7YVLJVOBUK4.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/2J/S5952G7WHXP7YVLJVOBUK4.uasset"
+[2022.10.12-17.26.34:775][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/GT/TJBQRIF8YG10O3AE3IINMJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/GT/TJBQRIF8YG10O3AE3IINMJ.uasset"
+[2022.10.12-17.26.34:776][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/PF/8LRN384XGCR53NQWG5SV5X.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/PF/8LRN384XGCR53NQWG5SV5X.uasset"
+[2022.10.12-17.26.34:818][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/S3/4UXFKBYM283P19H68XQMZ3.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/S3/4UXFKBYM283P19H68XQMZ3.uasset"
+[2022.10.12-17.26.34:827][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/S5/MPA7VQSYQR3D9NQ57A4RO7.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/S5/MPA7VQSYQR3D9NQ57A4RO7.uasset"
+[2022.10.12-17.26.34:838][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/A/KE/X26MTD9ACLZI5EOEQM6QXZ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/A/KE/X26MTD9ACLZI5EOEQM6QXZ.uasset"
+[2022.10.12-17.26.34:847][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/8E/73RUDZPL7XNV4UM4H82ZTJ.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/8E/73RUDZPL7XNV4UM4H82ZTJ.uasset"
+[2022.10.12-17.26.34:865][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/A/W6/1DKYLR8T6RNIE0Z58JN849.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/A/W6/1DKYLR8T6RNIE0Z58JN849.uasset"
+[2022.10.12-17.26.34:877][355]LogPackFactory: Copied "../../../Templates/TP_VehicleAdvBP/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/1T/OOJ2X5F517ZKN74F48VWTE.uasset" to "../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/4/1T/OOJ2X5F517ZKN74F48VWTE.uasset"
+[2022.10.12-17.26.35:137][355]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\OffroadCar\OffroadCar_Pawn.uasset: [Compiler] InputAction Event references unknown Action 'ResetCar' for  InputAction ResetCar
+[2022.10.12-17.26.35:181][355]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] InputAction Event references unknown Action 'ResetCar' for  InputAction ResetCar
+[2022.10.12-17.26.35:469][355]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.006295 seconds
+[2022.10.12-17.26.35:472][355]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/Blueprints/OffroadGameMode
+[2022.10.12-17.26.35:473][355]LogSavePackage: Moving '../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Saved/OffroadGameMode0CEC3B5A4F80B8BC5434A0A56E402708.tmp' to '../../../../../../Users/scott/Documents/Unreal Projects/legoProjectBuildV2/Content/VehicleTemplate/Blueprints/OffroadGameMode.uasset'
+[2022.10.12-17.26.35:485][355]LogLinker: Warning: Failed to load '/Game/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2022.10.12-17.26.35:486][355]LogLinker: Warning: Failed to load '/Game/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2022.10.12-17.26.35:486][355]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview'
+[2022.10.12-17.26.35:560][355]AssetCheck: New page: Asset Save: OffroadGameMode
+[2022.10.12-17.26.35:560][355]LogContentValidation: Display: Validating Blueprint /Game/VehicleTemplate/Blueprints/OffroadGameMode.OffroadGameMode
+[2022.10.12-17.26.37:675][546]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.10.12-17.26.41:726][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.12-17.26.42:879][990]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-17.26.42:898][990]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.OffroadCar_Pawn
+	Asset Type: Blueprint
+	Asset Name: /Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.OffroadCar_TorqueCurve
+	Asset Type: CurveFloat
+	Asset Name: /Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear.OffroadCar_WheelsRear
+	Asset Type: Blueprint
+	Asset Name: /Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront.OffroadCar_WheelsFront
+	Asset Type: Blueprint
+[2022.10.12-17.26.43:077][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.12-17.26.43:084][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.12-17.26.43:089][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.12-17.26.46:812][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.12-17.26.48:491][387]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-17.26.48:501][387]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VehicleTemplate/Blueprints/OffroadGameMode.OffroadGameMode
+	Asset Type: Blueprint
+[2022.10.12-17.26.48:629][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.12-17.26.48:635][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.12-17.26.48:640][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.12-17.26.56:604][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C
+[2022.10.12-17.26.56:604][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C
+[2022.10.12-17.26.56:607][196]LogActorFactory: Actor Factory spawned Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn as actor: SportsCar_Pawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SportsCar_Pawn_C_0
+[2022.10.12-17.26.56:609][196]LogActorFactory: Actor Factory spawned Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn as actor: SportsCar_Pawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SportsCar_Pawn_C_0
+[2022.10.12-17.26.57:386][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C
+[2022.10.12-17.26.57:386][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C
+[2022.10.12-17.26.57:391][281]LogActorFactory: Actor Factory spawned Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn as actor: SportsCar_Pawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SportsCar_Pawn_C_UAID_F02F741DC7EE473F01_1203144183
+[2022.10.12-17.26.57:393][281]LogActorFactory: Actor Factory spawned Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn as actor: SportsCar_Pawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SportsCar_Pawn_C_UAID_F02F741DC7EE473F01_1203144183
+[2022.10.12-17.26.57:426][282]LogViewport: Scene viewport resized to 551x193, mode Windowed.
+[2022.10.12-17.26.58:783][367]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Display: GetPartitionedActors took 61 us
+[2022.10.12-17.26.58:790][367]LogWorldPartition: Display: GenerateStreaming took 289 us
+[2022.10.12-17.26.58:790][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-17.26.58:790][367]PIE: New page: PIE session: ThirdPersonMap (12 Oct 2022, 19:26:58)
+[2022.10.12-17.26.58:793][367]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.12-17.26.58:793][367]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.12-17.26.58:793][367]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.12-17.26.58:797][367]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.12-17.26.58:798][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004651s)
+[2022.10.12-17.26.58:798][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004715s)
+[2022.10.12-17.26.58:798][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-17.26.58:798][367]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.12-17.26.58:798][367]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.12-17.26.58:798][367]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.12-17.26.58:800][367]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.12-17.26.58:800][367]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2022.10.12-17.26.58:806][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.12-17.26.58:807][367]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.12-17.26.58:807][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-17.26.58:807][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-17.26.58:807][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-17.26.58:807][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-17.26.58:807][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-17.26.58:809][367]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.12-17.26.58:834][367]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2022.10.12-17.26.58:834][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-17.26.58:834][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-17.26.58:835][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-17.26.58:835][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.12-17.26.58:835][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.12-17.26.58:836][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.12-17.26.58:836][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.12-17.26.58:836][367]LogInit: FAudioDevice initialized.
+[2022.10.12-17.26.58:836][367]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.10.12-17.26.58:844][367]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.12-17.26.58:846][367]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.12-18.26.58
+[2022.10.12-17.26.58:846][367]LogWorld: Bringing up level for play took: 0.002325
+[2022.10.12-17.26.58:848][367]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.10.12-17.26.58:868][367]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.12-17.26.58:868][367]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.12-17.26.58:868][367]PIE: Server logged in
+[2022.10.12-17.26.58:869][367]PIE: Play in editor total start time 0.081 seconds.
+[2022.10.12-17.27.26:311][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-17.27.26:311][812]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.12-17.27.26:311][812]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-17.27.26:311][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-17.27.26:323][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-17.27.26:325][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-17.27.26:330][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.12-17.27.26:331][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.12-17.27.26:332][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.12-17.27.26:335][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-17.27.26:337][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.12-17.27.26:377][813]LogViewport: Scene viewport resized to 551x193, mode Windowed.
+[2022.10.12-17.27.26:407][814]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.10.12-17.27.27:100][852]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.253 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.12-17.28.06:925][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Building/BuildParts/CarCore.CarCore
+[2022.10.12-17.28.06:926][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-17.28.47:036][517]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn
+[2022.10.12-17.28.47:036][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.12-17.28.54:591][307]BlueprintLog: New page: Compile SportsCar_Pawn
+[2022.10.12-17.28.54:598][307]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] Could not find a variable named "SkeletalMesh" in 'SportsCar_Pawn_C'.
+Make sure 'SportsCar_Pawn_C' has been compiled for  Get SkeletalMesh
+[2022.10.12-17.28.54:599][307]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] Could not find a variable named "Player Interact" in 'SportsCar_Pawn_C'.
+Make sure 'SportsCar_Pawn_C' has been compiled for  Get Player Interact
+[2022.10.12-17.28.54:599][307]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] InputAction Event references unknown Action 'ResetCar' for  InputAction ResetCar
+[2022.10.12-17.28.54:602][307]LogBlueprint: Error: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] The property associated with  Skeletal Mesh  could not be found in '/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C'
+[2022.10.12-17.28.54:603][307]LogBlueprint: Error: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] The property associated with  Player Interact  could not be found in '/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C'
+[2022.10.12-17.28.54:684][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.12-17.29.21:559][417]BlueprintLog: New page: Compile CarCore
+[2022.10.12-17.29.21:607][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.12-17.29.23:788][672]LogViewport: Scene viewport resized to 551x193, mode Windowed.
+[2022.10.12-17.29.26:680][821]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Display: GetPartitionedActors took 61 us
+[2022.10.12-17.29.26:688][821]LogWorldPartition: Display: GenerateStreaming took 286 us
+[2022.10.12-17.29.26:689][821]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.12-17.29.26:690][821]LogPlayLevel: [PlayLevel] Compiling SportsCar_Pawn before play...
+[2022.10.12-17.29.26:697][821]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] Could not find a variable named "SkeletalMesh" in 'SportsCar_Pawn_C'.
+Make sure 'SportsCar_Pawn_C' has been compiled for  Get SkeletalMesh
+[2022.10.12-17.29.26:698][821]LogBlueprint: Warning: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] InputAction Event references unknown Action 'ResetCar' for  InputAction ResetCar
+[2022.10.12-17.29.26:701][821]LogBlueprint: Error: [AssetLog] C:\Users\scott\Documents\Unreal Projects\legoProjectBuildV2\Content\VehicleTemplate\Blueprints\SportsCar\SportsCar_Pawn.uasset: [Compiler] The property associated with  Skeletal Mesh  could not be found in '/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C'
+[2022.10.12-17.29.26:790][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.12-17.29.26:791][821]LogPlayLevel: PlayLevel: Blueprint regeneration took 102 ms (1 blueprints)
+[2022.10.12-17.29.26:791][821]BlueprintLog: Warning: Blueprint failed to compile:  SportsCar_Pawn
+[2022.10.12-17.29.26:791][821]LogCustomDialog: Dialog displayed:
+[2022.10.12-17.29.28:309][821]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.12-17.29.28:369][821]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.12-17.29.28:400][821]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.031 s
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: 
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: 
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: Stack: 
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc13955fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc1396f705 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc139506aa UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc15adebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc1661c7f4 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc16620cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc166205a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc15fbdcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffc1694aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ff7b60982f6 UnrealEditor.exe!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ff7b60b0d9c UnrealEditor.exe!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ff7b60b0e8a UnrealEditor.exe!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ff7b60b3c4d UnrealEditor.exe!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ff7b60c5564 UnrealEditor.exe!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ff7b60c8736 UnrealEditor.exe!UnknownFunction []
+[2022.10.12-17.29.28:400][821]LogOutputDevice: Error: [Callstack] 0x00007ffcb9947034 KERNEL32.DLL!UnknownFunction []
+[2022.10.12-17.29.28:401][821]LogOutputDevice: Error: [Callstack] 0x00007ffcba4e26a1 ntdll.dll!UnknownFunction []
+[2022.10.12-17.29.28:401][821]LogOutputDevice: Error: 
